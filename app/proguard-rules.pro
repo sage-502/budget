@@ -1,0 +1,2 @@
+-keepattributes *Annotation*
+-keep class com.sage502.budgettracker.data.** { *; }
